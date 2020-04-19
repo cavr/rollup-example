@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0});var e,t=(e=require("react"))&&"object"==typeof e&&"default"in e?e.default:e,a="style_badge__11hUf",r="style_button__KMwXw";exports.Badge=function(){return t.createElement("span",{className:a},"Example")},exports.Button=function(){return t.createElement("button",{className:r},"Example")};
